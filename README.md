@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Deebak+G+%F0%9F%91%8B;Full+Stack+Developer+%7C+CS+%2B+Cyber+Security;React.js+%7C+Node.js+%7C+Express.js+%7C+MySQL;Building+real-world+web+apps+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=dpak44193-beep&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Deebak&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
